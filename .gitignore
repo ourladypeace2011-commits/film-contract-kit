@@ -1,0 +1,6 @@
+# Output files (generated contracts contain client PII)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
