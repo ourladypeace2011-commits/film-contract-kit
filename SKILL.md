@@ -111,7 +111,7 @@ allowedTools: [Read, Edit, Write, Grep, Glob, Bash]
 
 ### [C] 合約審計（三層檢查）
 
-需要使用者指定案件名稱（如「恬馨幼兒園」），然後讀取該案所有文件。
+需要使用者指定案件名稱（如「某某幼兒園」），然後讀取該案所有文件。
 
 #### Layer 1: 合約邏輯審計
 
@@ -152,8 +152,8 @@ allowedTools: [Read, Edit, Write, Grep, Glob, Bash]
 ```
 === Cross-Reference Report: {{案件名}} ===
 
-[PASS] 甲方名稱 — 全文件一致：「私立恬馨幼兒園」
-[PASS] 專案名稱 — 全文件一致：「恬馨幼兒園形象影片」
+[PASS] 甲方名稱 — 全文件一致：「某某幼兒園」
+[PASS] 專案名稱 — 全文件一致：「某某幼兒園形象影片」
 [MISMATCH] 拍攝日期 — 合約: 4/10、通告單: 4/11  ← 需修正
 [MISSING] 尾款金額 — 時程表中未標示
 

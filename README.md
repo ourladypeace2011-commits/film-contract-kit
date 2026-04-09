@@ -93,7 +93,7 @@ cp -r film-contract-kit/templates/ your-project/templates/
 
 ```
 幫我開一個新案的合約
-合約審計 恬馨幼兒園
+合約審計 某某幼兒園
 ```
 
 ---
